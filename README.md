@@ -21,14 +21,14 @@ vhl_namespace	vhl_name	lsh_time	lsh_added	lat	lon	ol	ob
 3	tw	3205	2022-04-15 00:00:20+02	2022-04-15 00:00:21.980338+02	52.2483	21.04614	26	11<br/>
 4	tw	3205	2022-04-15 00:00:25+02	2022-04-15 00:00:27.218877+02	52.2483	21.04614	26	11
 
-Gdzie:
-vhl_namespace >> typ pojazdu, tw = tramwaj
-vhl_name >> numer boczny pojazdu 
-lsh_time >> data wysłania sygnału GNSS z pojazdu ??
-lsh_added >> data odbioru sygnału GNSS w centrali ??
-lat/long >> szerokość/długość geograficzna 
-ol >> numer linii
-ob >> numer brygady**
+Gdzie:<br/>
+vhl_namespace >> typ pojazdu, tw = tramwaj<br/>
+vhl_name >> numer boczny pojazdu <br/>
+lsh_time >> data wysłania sygnału GNSS z pojazdu ??<br/>
+lsh_added >> data odbioru sygnału GNSS w centrali ??<br/>
+lat/long >> szerokość/długość geograficzna <br/>
+ol >> numer linii<br/>
+ob >> numer brygady**<br/>
 ______________________________________________________________
 
 Obecna próbka danych – do pozyskania za pomocą skryptu korzystającego z API 

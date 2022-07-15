@@ -14,7 +14,7 @@ ______________________________________________________________
 
 Próbka danych (tramwaje z jednego dnia) udostępnionych przez ZTM – dostępne w folderze raw_data
 
-vhl_namespace	vhl_name	lsh_time	lsh_added	lat	lon	ol	ob
+vhl_namespace	vhl_name	lsh_time	lsh_added	lat	lon	ol	ob<br/>
 0	tw	3205	2022-04-15 00:00:04+02	2022-04-15 00:00:12.227338+02	52.24824	21.04631	26	11<br/>
 1	tw	3205	2022-04-15 00:00:09+02	2022-04-15 00:00:12.32113+02	52.248295	21.046158	26	11<br/>
 2	tw	3205	2022-04-15 00:00:14+02	2022-04-15 00:00:16.734894+02	52.2483	21.04614	26	11<br/>
@@ -32,7 +32,6 @@ ob >> numer brygady**<br/>
 ______________________________________________________________
 
 Obecna próbka danych – do pozyskania za pomocą skryptu korzystającego z API 
->> są już numery boczne pojazdu:
 
 {"Lines": "35", "Lon": 21.021528, "VehicleNumber": "1219+1218", "Time": "2022-07-06 14:27:33", "Lat": 52.17795, "Brigade": "10"}, <br/>
 {"Lines": "28", "Lon": 20.971552, "VehicleNumber": "1222", "Time": "2022-07-06 14:27:33", "Lat": 52.264355, "Brigade": "5"}, <br/>
